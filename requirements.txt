@@ -2,3 +2,4 @@ python-telegram-bot
 VaderSentiment
 openai
 regex
+python-telegram-bot==20.2
