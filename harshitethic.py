@@ -1,4 +1,4 @@
-from telegram.ext import Updater, CommandHandler, MessageHandler, mainfunctions
+from telegram.ext import Updater, CommandHandler, MessageHandler, Mainfunctions
 from vaderSentiment.vaderSentiment import SentimentIntensityAnalyzer
 from datetime import datetime
 import json, os, string, sys, threading, logging, time, re, random
