@@ -1,4 +1,4 @@
-from telegram.ext import Updater, CommandHandler, MessageHandler
+from telegram.ext import Updater, CommandHandler, MessageHandler, Filters
 
 
 from vaderSentiment.vaderSentiment import SentimentIntensityAnalyzer
